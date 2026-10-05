@@ -1,0 +1,3 @@
+# app-ads.txt for metthelandgames.com
+# TODO: add the AdMob publisher line once the AdMob account is confirmed, e.g.:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
