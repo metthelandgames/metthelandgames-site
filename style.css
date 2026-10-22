@@ -73,3 +73,15 @@ footer {
   border-top: 1px solid var(--border);
   margin-top: 3rem;
 }
+
+.game {
+  display: flex;
+  gap: 1.25rem;
+  align-items: center;
+  color: var(--fg);
+  text-decoration: none;
+}
+.game:hover { border-color: var(--accent); }
+.game img { border-radius: 22%; flex-shrink: 0; }
+.game p { margin: 0.35rem 0; }
+.game .store { color: var(--accent); font-size: 0.95rem; }
