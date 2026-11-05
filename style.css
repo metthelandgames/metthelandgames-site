@@ -146,7 +146,7 @@ main.wide, header.wide, footer.wide { max-width: 1040px; }
 .game-card p { margin: 0 0 1rem; color: var(--muted); }
 .game-card .more { margin-top: auto; color: var(--accent); font-family: "Fredoka", system-ui, sans-serif; font-weight: 600; }
 
-.game-banner { display: block; width: 100%; height: auto; border-radius: 20px; }
+.game-banner { display: block; width: 100%; max-width: 720px; height: auto; margin: 0 auto; border-radius: 20px; }
 .game-title { display: flex; gap: 1.25rem; align-items: center; margin: 1.5rem 0 1rem; }
 .game-title img { width: 96px; height: 96px; border-radius: 22%; flex-shrink: 0; }
 .game-title h1 { margin: 0; font-size: clamp(1.8rem, 5vw, 2.6rem); }
